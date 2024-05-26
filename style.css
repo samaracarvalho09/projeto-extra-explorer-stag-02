@@ -17,6 +17,7 @@ body {
 }
 
 .main img {
+  display: flex;
   margin-top: 64px;
 }
 
@@ -66,5 +67,6 @@ h1 span#title {
 }
 
 .footer {
+  display: flex;
   width: 100%;
 }
